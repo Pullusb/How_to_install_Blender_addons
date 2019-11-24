@@ -72,7 +72,7 @@ Here is what happens when you click on install addon:
 - Refresh the addon list so it will show up
 - Bring it forward in the list via the name in search so only this addon appears.
 
->note : If you never installed addons from the "install" button the folder probably wont be there. You have create "addons" (and eventually "modules") if there are not in 'scripts'.
+>note : If you never installed addons from the "install" button the folder probably wont be there. You have to create "addons" (and eventually "modules") if there are not in 'scripts'.
 
 
 Why addons install here and not in blender datas ?  
