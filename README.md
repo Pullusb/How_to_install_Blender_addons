@@ -5,11 +5,13 @@ First, dear user, know that there can be two type of addon files :
 
 Single file addon:
 Just a plain python file "the_addon_name.py"
+
 ![single file addon](/imgs/single_file_addon.png)
 
 Multi-file addons:
 A folder "the_addon_name" --> containing always (and at least) an "\_\_init\_\_.py" file
 The folder of a multifile addon is nearly always downloaded zipped.
+
 ![multi-file addon](/imgs/multi-file_addon.png)
 
 ## Now how to install ?
@@ -17,9 +19,11 @@ The folder of a multifile addon is nearly always downloaded zipped.
 ### The easy (user friendly) Way:
 
 Go to preferences, addons, click on install addons an look for either the ".py" or the ".zip".
+
 ![basic install](/imgs/basic_install.png)
 
 Then you just have to click on activate.
+
 ![activate addon](/imgs/activate_addon.png)
 
 If you dont want to bother more, this is the only method you need to know (except if the addon use modules, most of them don't).  
@@ -39,6 +43,7 @@ Let's see where addons (and python modules) are stored and the differences of th
 #### - Released, placed in installation folder :
 
 so something like : `C:\Program Files\Blender Foundation\Blender\2.80\scripts\addons\`
+
 ![release](/imgs/release.png)
 
 "Release" addons (those who are built-in when you download blender) are stored inside the script folder of the blender datas.
