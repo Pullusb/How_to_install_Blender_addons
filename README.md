@@ -1,15 +1,15 @@
 # How to install Blender addons - the complete guide.
 
 
-#### First, dear user, know that there can be two type of addon files :
+#### First, dear user, know that there can be two types of addon files
 
 Single file addon:  
-Just a plain python file "the_addon_name.py"
+Just a plain python file "*the_addon_name.py*"
 
 ![single file addon](/imgs/single_file_addon.png)
 
-Multi-file addons:  
-A folder "the_addon_name" --> containing always (and at least) an "\_\_init\_\_.py" file.  
+Multi-file addon:  
+A folder "*the_addon_name*" --> containing always (and at least) an "*\_\_init\_\_.py*" file.  
 The folder of a multifile addon is nearly always downloaded zipped.
 
 ![multi-file addon](/imgs/multi-file_addon.png)
@@ -18,7 +18,7 @@ The folder of a multifile addon is nearly always downloaded zipped.
 
 ### The easy (user friendly) Way:
 
-Go to preferences, addons, click on install addons an look for either the ".py" or the ".zip".
+Go to preferences, addons, click on install addons an look for either the "*.py*" or the "*.zip*".
 
 ![basic install](/imgs/basic_install.png)
 
@@ -61,7 +61,7 @@ on linux: `~/user/config/blender/2.80/scripts`
 
 This is where your file actually goes when you use the easy way above !
 Here is what happens when you click on install addon:
-- Copy the '.py' or '.zip' in the User-addons location (unzip it there if it's a zip),
+- Copy the "*.py*" or "*.zip*" in the User-addons location (unzip it there if it's a zip),
 - Refresh the addon list so it will show up
 - Bring it forward in the list via the name in search so only this addon appears.
 
