@@ -1,5 +1,6 @@
 # How to install Blender addons - the complete guide.
 
+[French version here](https://github.com/Pullusb/How_to_install_Blender_addons/blob/master/blender_addon_install_FR.md)
 
 #### First, dear user, know that there can be two types of addon files
 
@@ -17,7 +18,7 @@ The folder of a multifile addon is nearly always downloaded zipped.
 
 ## Now how to install ?
 
-### The easy (user friendly) Way:
+### The easy (user friendly) Way
 
 Go to preferences, addons, click on "install..." an look for either the "*.py*" or the "*.zip*".
 
@@ -36,19 +37,20 @@ Still there ? good !
 
 ## Manual install
 
-Let's see where addons (and python modules) are stored and the differences of these locations.
+Once an addon is manually installed in sources folders. You'll have to click on the refresh button to see it.
 
+Let's see where addons (and python modules) are stored and the differences of these locations.  
 There are 3 places :
 
 ### - Released
 
-Placed in installation folder
+Placed in installation folder.
 
 Something like : `C:\Program Files\Blender Foundation\Blender\2.80\scripts\addons\`
 
 ![release](/imgs/release.png)
 
-"Release" addons (those who are built-in when you download blender) are stored inside the script folder of the blender datas.
+"Release" addons (those who are built-in when you download blender) are stored inside the script folder of the blender datas.  
 These are local to this blender version only, you can put your downloaded addon here, but the next place is plecisely designed for them.
 
 > note that the intermediate RC (release candidate) versions also come with a lot more of "contrib" addons for you to test. If integrated, these are stored inside "addons_contrib" just aside "addons" folder. The "contrib" are those who didn't make it to the release for various reason but are usually solid and powerfull stuff.
@@ -64,7 +66,7 @@ on linux: `~/user/config/blender/2.80/scripts`
 
 ![user scripts and config](/imgs/user_scripts_and_config.png)
 
-This is where your file actually goes when you use the easy way above !  
+This is where your file actually goes when you use the automatic install!  
 Here is what happens when you click on install addon:
 - Copy the "*.py*" or "*.zip*" in the User-addons location (unzip it there if it's a zip),
 - Refresh the addon list so it will show up
@@ -81,7 +83,7 @@ Bonus : For the same reason, that's also where your preferences are stored, asid
 
 ### - External
 
-placed in a folder of your choice (optional and not set by default)
+Placed in a folder of your choice (optional and not set by default).
 
 This place is defined by you in the preferences and allow a third folder to be scanned for addons and modules.  
 You add the path in Preferences > File Paths > Scripts
