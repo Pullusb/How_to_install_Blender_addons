@@ -14,6 +14,7 @@ The folder of a multifile addon is nearly always downloaded zipped.
 
 ![multi-file addon](/imgs/multi-file_addon.png)
 
+
 ## Now how to install ?
 
 ### The easy (user friendly) Way:
@@ -97,10 +98,10 @@ So all the computer on the same network can load the same addons and updating th
 
 That's it, now you know where the addons files are stored, you can manage them your own way.  <span>&#128077;</span>
 
-> Final note : In the addon [DevTools](https://github.com/Pullusb/devTools) you have buttons to open these location from blender in the text-editor toolbar.
+> Final note : In the addon [DevTools](https://github.com/Pullusb/devTools) you have buttons to open these locations from blender in the text-editor toolbar.
   
   
-Have a nice install
+Have a nice blend
 
 
 Samuel Bernou (aka PullUSB)
