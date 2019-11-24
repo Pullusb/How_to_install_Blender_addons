@@ -33,13 +33,15 @@ The rest will be usefull to manage your addon more efficiently and personnaly.
 
 Still there ? good !
 
-### Manual install
+## Manual install
 
 Let's see where addons (and python modules) are stored and the differences of these locations.
 
 There are 3 places :
 
-#### - Released, placed in installation folder
+### - Released
+
+Placed in installation folder
 
 Something like : `C:\Program Files\Blender Foundation\Blender\2.80\scripts\addons\`
 
@@ -51,7 +53,10 @@ These are local to this blender version only, you can put your downloaded addon 
 > note that the intermediate RC (release candidate) versions also come with a lot more of "contrib" addons for you to test. If integrated, these are stored inside "addons_contrib" just aside "addons" folder. The "contrib" are those who didn't make it to the release for various reason but are usually solid and powerfull stuff.
 
 
-#### - User-addons, placed in user apps configs
+### - User-addons
+
+Placed in user apps configs.
+
 Somewhere like this:
 on windows: `C:/Users/username/AppData/Roaming/Blender Foundation/Blender/2.80/scripts/addons`
 on linux: `~/user/config/blender/2.80/scripts`
@@ -75,7 +80,9 @@ Bonus : For the same reason, that's also where your preferences are stored, asid
 userpref.blend, startup.blend the recent openend file history, bookmark and favorites.
 
 
-#### - External(optional and not set by default) placed in a folder of your choice
+### - External
+
+placed in a folder of your choice (optional and not set by default)
 
 This place is defined by you in the preferences and allow a third folder to be scanned for addons and modules.
 
