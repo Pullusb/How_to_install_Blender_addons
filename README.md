@@ -18,17 +18,16 @@ The folder of a multifile addon is nearly always downloaded zipped.
 
 ### The easy (user friendly) Way:
 
-Go to preferences, addons, click on install addons an look for either the "*.py*" or the "*.zip*".
+Go to preferences, addons, click on "install..." an look for either the "*.py*" or the "*.zip*".
 
 ![basic install](/imgs/basic_install.png)
 
-Then you just have to click on activate.
+Then just click on activate.
 
 ![activate addon](/imgs/activate_addon.png)
 
-If you dont want to bother more, this is the only method you need to know (except if the addon use modules, most of them don't).  
 
-So you can stop here. But!  
+If you dont want to bother more, this is the only method you need to know (except if the addon use modules, most of them don't). So you can stop here. But!
 The rest will be usefull to manage your addon more efficiently and personnaly.
 
 
