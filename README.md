@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/imgs/single_file_addon.png">
+</p>
+
 # How to install Blender addons - complete guide
 
 [French version here](https://github.com/Pullusb/How_to_install_Blender_addons/blob/master/blender_addon_install_FR.md)
