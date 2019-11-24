@@ -28,7 +28,7 @@ Go to preferences, addons, click on "install..." an look for either the "*.py*" 
 
 ![basic install](/imgs/basic_install.png)
 
-Then just click on activate.
+Then just click on the enable checkbox.
 
 ![activate addon](/imgs/activate_addon.png)
 

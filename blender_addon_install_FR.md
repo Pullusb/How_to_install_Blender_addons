@@ -28,7 +28,7 @@ Ouvrer les préfèrences > onglet addons > cliquez sur "install..." et aller che
 
 ![basic install](/imgs/basic_install.png)
 
-Puis il s'affiche seul dans la liste, et vous avez juste a cliquer sur "activate".
+Puis il s'affiche seul dans la liste, et vous avez juste a cocher "enable".
 
 ![activate addon](/imgs/activate_addon.png)
 
