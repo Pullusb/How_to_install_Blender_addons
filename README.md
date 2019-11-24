@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/imgs/single_file_addon.png">
+  <img src="/imgs/addon_install_guide.png">
 </p>
 
 # How to install Blender addons - complete guide
