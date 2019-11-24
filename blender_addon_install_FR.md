@@ -1,4 +1,4 @@
-# Comment installer des addons Blender - le guide comlet
+# Comment installer des addons Blender - guide complet
 
 [English version here](https://github.com/Pullusb/How_to_install_Blender_addons/blob/master/README.md)
 
