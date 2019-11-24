@@ -57,13 +57,13 @@ These are local to this blender version only, you can put your downloaded addon 
 
 Placed in user apps configs.
 
-Somewhere like this:
-on windows: `C:/Users/username/AppData/Roaming/Blender Foundation/Blender/2.80/scripts/addons`
+Somewhere like this:  
+on windows: `C:/Users/username/AppData/Roaming/Blender Foundation/Blender/2.80/scripts/addons`  
 on linux: `~/user/config/blender/2.80/scripts`
 
 ![user scripts and config](/imgs/user_scripts_and_config.png)
 
-This is where your file actually goes when you use the easy way above !
+This is where your file actually goes when you use the easy way above !  
 Here is what happens when you click on install addon:
 - Copy the "*.py*" or "*.zip*" in the User-addons location (unzip it there if it's a zip),
 - Refresh the addon list so it will show up
@@ -72,30 +72,28 @@ Here is what happens when you click on install addon:
 >note : If you never installed addons from the "install" button the folder probably wont be there. You have create "addons" (and eventually "modules") if there are not in 'scripts'.
 
 
-Why addons install here and not in blender datas ?
-
+Why addons install here and not in blender datas ?  
 Because this way you when you install the next version of Blender, or use a portable version, they all look here wherever they are installed (if version is the same) !
 
-Bonus : For the same reason, that's also where your preferences are stored, aside the "script" folder there is a "config" that contains
-userpref.blend, startup.blend the recent openend file history, bookmark and favorites.
+Bonus : For the same reason, that's also where your preferences are stored, aside the "script" folder there is a "config" that contains userpref.blend, startup.blend, file-history, etc.
 
 
 ### - External
 
 placed in a folder of your choice (optional and not set by default)
 
-This place is defined by you in the preferences and allow a third folder to be scanned for addons and modules.
-
+This place is defined by you in the preferences and allow a third folder to be scanned for addons and modules.  
 You add the path in Preferences > File Paths > Scripts
 
 ![external scripts](/imgs/external_scripts.png)
 
-The folder that you target must have the same directory structure as the two other location.
+The folder that you target must have the same directory structure as the two other location.  
 In the directory that you point (you do not have to name it 'scripts') create a subfolder "addons" (and the folder "modules" if you need it)
 
-This folder is interesting because you can even set the path to a local server for exemple,
-so all the computer on the same network can load the same addons and updating the file will update for all.
+This folder is interesting because you can even set the path to a local server for exemple.
+So all the computer on the same network can load the same addons and updating the file will update for all.
 
+---
 
 That's it, now you know where the addons files are stored, you can manage them your own way.  <span>&#128077;</span>
 
