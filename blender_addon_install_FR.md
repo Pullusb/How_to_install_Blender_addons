@@ -6,7 +6,7 @@
 
 [English version here](https://github.com/Pullusb/How_to_install_Blender_addons/blob/master/README.md)
 
-#### Tout dabord, cher utilisateur, sache qu'il y a deux "modèle" d'addons:
+#### Tout d'abord, cher utilisateur, sache qu'il y a deux "modèles" d'addons:
 
 Fichier simple :  
 Juste un fichier python style "*mon_addon.py*"
@@ -40,8 +40,7 @@ Toujours là ? Parfait !
 
 ## Installation manuelle
 
-Une fois un addon placé manuellement dans les dossiers sources il faut cliquer sur refresh
-pour qu'il apparaisse dans la liste.
+Une fois un addon placé manuellement dans les dossiers sources il faut cliquer sur refresh s'il n'apparaît pas dans la liste.
 
 Analysons les différents endroits où se trouvent les addons (et modules python).  
 Il y a en a 3:
