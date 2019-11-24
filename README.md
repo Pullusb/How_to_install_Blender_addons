@@ -1,7 +1,7 @@
 # How to install Blender addons - the complete guide.
 
 
-First, dear user, know that there can be two type of addon files :
+#### First, dear user, know that there can be two type of addon files :
 
 Single file addon:  
 Just a plain python file "the_addon_name.py"
