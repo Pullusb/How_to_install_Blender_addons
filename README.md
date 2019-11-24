@@ -3,13 +3,13 @@
 
 First, dear user, know that there can be two type of addon files :
 
-Single file addon:
+Single file addon:  
 Just a plain python file "the_addon_name.py"
 
 ![single file addon](/imgs/single_file_addon.png)
 
-Multi-file addons:
-A folder "the_addon_name" --> containing always (and at least) an "\_\_init\_\_.py" file
+Multi-file addons:  
+A folder "the_addon_name" --> containing always (and at least) an "\_\_init\_\_.py" file.  
 The folder of a multifile addon is nearly always downloaded zipped.
 
 ![multi-file addon](/imgs/multi-file_addon.png)
