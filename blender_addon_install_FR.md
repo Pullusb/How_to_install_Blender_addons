@@ -71,15 +71,15 @@ ex linux : `~/user/config/blender/2.80/scripts/addons`
 
 C'est à cet endroit où va votre fichier quand vous utilisez la méthode automatique !  
 Voici ce qui se passe lorsque vous cliquez sur "Install...":
-- copie du "*.py*: dans les les "user addons" (ou dézip à cet endroit si c'est une archive)
+- copie du "*.py*: dans les "user addons" (ou dézip à cet endroit si c'est une archive)
 - rafraîchissement de la liste des addons (bouton refresh) pour qu'il apparaisse.
 - nom de l'addon dans le champ de recherche pour l'afficher seul.
 
-> note : Si vous n'avez jamais installé d'addons via l'installeur de blender, le dossier "addons" ne seront probablement pas présent dans le dossier "script". Il suffit de le créer ( idem pour le dossier "modules", sous script également)
+> note : Si vous n'avez jamais installé d'addons via l'installeur de blender, les dossier "scripts/addons" ne seront probablement pas présent dans le dossier de version. Il suffit de les créer (idem pour le dossier "script/modules")
 
 Pourquoi ici et pas dans les dossier d'installations de blender ?  
 Et bien si vous installez a nouveau Blender ou même que vous utilisez une version portable.
-L'emplacement restera le même et vos addons seront chargé sans avoir a les copier ailleurs.
+L'emplacement restera le même et vos addons seront chargé sans avoir à les copier ailleurs.
 
 Bonus : C'est pour les même raisons que les préférences utilisateur sont aussi sotckées a cet emplacement, à côté du dossier "script" vous trouverez "config" qui contient préférences (userpref.blend), fichier de démarrage (startup.blend), l'historique d'ouverture, etc.
 
