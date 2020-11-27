@@ -55,7 +55,7 @@ ex windows : `C:\Program Files\Blender Foundation\Blender\2.80\scripts\addons\`
 
 Les addons "release" sont ceux qui sont livré par défaut avec blender.  
 Ils se trouvent dans le dossier d'installation blender, sous son numéro de version.  
-Les fichiers sont locaux a cette version seulement, vous pouvez placer vos addons ici sans problème, mais l'endroit suivant est dédié a cet usage.
+Les fichiers sont locaux a cette version seulement, vous pouvez placer vos addons ici sans problème, mais le dossier "user" que nous verrons ensuite est dédié a cet usage.
 
 > notez que les sortie intermediaire (release candidate) arrive avec un lot d'addons supplémentaire appelé "contrib". S'il sont intégré, ils seront stocké dans le dossier "addons_contrib" a coté du dossier "addons". Les adddons "contrib" sont ceux qui n'ont pas encore pu être intégré par défaut pour diverse raison mais qui sont généralement très intéressants.
 
@@ -69,7 +69,7 @@ ex linux : `~/user/config/blender/2.80/scripts/addons`
 
 ![user scripts and config](/imgs/user_scripts_and_config.png)
 
-C'est à cet endroit que va votre fichier quand vous utilisez la méthode automatique !  
+C'est à cet endroit où va votre fichier quand vous utilisez la méthode automatique !  
 Voici ce qui se passe lorsque vous cliquez sur "Install...":
 - copie du "*.py*: dans les les "user addons" (ou dézip à cet endroit si c'est une archive)
 - rafraîchissement de la liste des addons (bouton refresh) pour qu'il apparaisse.
