@@ -92,7 +92,7 @@ Vous définissez ce chemin dans `Preferences > File Paths > Scripts`.
 
 ![external scripts](/imgs/external_scripts.png)
 
-Le dossier ciblé doit contenir la même structure que les deux autres emplacement.  
+Comme mentionné [dans la documentation officielle](https://docs.blender.org/manual/en/latest/editors/preferences/file_paths.html#data), le dossier ciblé doit contenir la même structure que les deux autres emplacement.  
 Donc dans ce dossier (qui ne doit pas nécessairement s'appeler "scripts") créez un sous-dossier "addons" (et le dossier "modules" si besoin)
 
 Cet emplacement est très intéressant car il vous permet de cibler un répertoire sur un serveur local par exemple.  
