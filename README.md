@@ -94,7 +94,7 @@ You add the path in Preferences > File Paths > Scripts
 
 ![external scripts](/imgs/external_scripts.png)
 
-The folder that you target must have the same directory structure as the two other location.  
+As mentionned [in the official doc](https://docs.blender.org/manual/en/latest/editors/preferences/file_paths.html#data), the folder that you target must have the same directory structure as the two other location.  
 In the directory that you point (you do not have to name it 'scripts') create a subfolder "addons" (and the folder "modules" if you need it)
 
 This folder is interesting because you can even set the path to a local server for exemple.
