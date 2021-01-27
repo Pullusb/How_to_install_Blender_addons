@@ -24,7 +24,7 @@ The folder of a multifile addon is nearly always downloaded zipped.
 
 ### The easy (user friendly) Way
 
-Go to preferences, addons, click on "install..." an look for either the "*.py*" or the "*.zip*".
+Go to preferences, addons, click on "install..." to look for either the "*.py*" or the "*.zip*".
 
 ![basic install](/imgs/basic_install.png)
 
@@ -34,7 +34,7 @@ Then just click on the enable checkbox.
 
 
 If you dont want to bother more, this is the only method you need to know (except if the addon use modules, most of them don't). So you can stop here. But!
-The rest will be usefull to manage your addon more efficiently and personnaly.
+The rest will be usefull to manage your addon more efficiently and personally.
 
 
 Still there ? good !
@@ -55,7 +55,7 @@ Something like : `C:\Program Files\Blender Foundation\Blender\2.80\scripts\addon
 ![release](/imgs/release.png)
 
 "Release" addons (those who are built-in when you download blender) are stored inside the script folder of the blender datas.  
-These are local to this blender version only, you can put your downloaded addon here, but the next place is plecisely designed for them.
+These are local to this blender version only, you can put your downloaded addon here, but the next place is precisely designed for them.
 
 > note that the intermediate RC (release candidate) versions also come with a lot more of "contrib" addons for you to test. If integrated, these are stored inside "addons_contrib" just aside "addons" folder. The "contrib" are those who didn't make it to the release for various reason but are usually solid and powerfull stuff.
 
